@@ -1,0 +1,10 @@
+# ignore ALL .log files
+*.log
+
+# ignore ALL files directory
+temp/
+Results/
+__pycache__
+
+# ignore ALL .html result files
+*.html
